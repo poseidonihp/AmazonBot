@@ -1,0 +1,18 @@
+{
+  "name": "amaonmonitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "amazn.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian",
+  "license": "MIT",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "got": "^12.0.1",
+    "node-html-parser": "^5.2.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
